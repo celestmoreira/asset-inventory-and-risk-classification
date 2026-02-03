@@ -13,6 +13,6 @@ Each asset includes basic access details and brief notes related to potential se
 | Desktop Computer | Continuous | Primary User | Office | Restricted | Stores personal documents and account information; primarily used by a single user |
 | Laptop | Frequent | Primary User | Mobile | Restricted | Used on both home and public networks; may store login credentials |
 | Smart TV | Intermittent | Household | Living Room | Internal | Connects to Wi-Fi for streaming services; limited user data stored |
-| Guest Smartphone | Temporary | Guest | Variable | Low | External device with limited trust; owner security practices are unknown |
+| Guest Smartphone | Temporary | Guest | Variable | Public | External device with limited trust; owner security practices are unknown |
 
 
